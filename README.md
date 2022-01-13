@@ -1,6 +1,6 @@
-# Login and Register using SharedPreferences
+# CRUD Using Room Database
 
-> This project is dedicated to midterm exams of mobile programming courses
+> Practice Mobile Programming
 
 ---
 
@@ -17,18 +17,14 @@ You're sections headers will be used to reference location of destination.
 
 ## Description
 
-- Validation of Data Registration
-- SharedPreferences memory
-- Registration form scrollable
-- Splashscreen show up when application running for the first time
+- CRUD Using Room Database
+- CRUD Data User (Name and Email)
+
 
 ## Activity
 
-- SplashScreenActivity
-- LoginActivity
-- RegisterActivity
-- ProfileActivity
-- DetailActivity
+- MainActivity
+- TambahActivity
 
 #### Technologies
 
@@ -36,7 +32,7 @@ You're sections headers will be used to reference location of destination.
 - Java 17.1
 - jdk 17
 
-[Back To The Top](#login-and-register-using-sharedpreferences)
+[Back To The Top](#crud-using-room-database)
 
 ---
 
